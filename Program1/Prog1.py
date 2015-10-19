@@ -5,4 +5,4 @@
 firstName = input("Enter First Name: ")
 major = input("Enter your major: ")
 print("My name is " + firstName + ".")
-print("My major is " + major + ", and I love to program!")
+print("My major is " + major + ", and I love to program!!")
