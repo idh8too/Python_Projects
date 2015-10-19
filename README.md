@@ -1,4 +1,4 @@
-# Python_Projects
+# Python Projects
 *********************
 Intro to Programming
 *********************
